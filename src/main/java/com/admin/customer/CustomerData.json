@@ -1,0 +1,15 @@
+{
+  "name": "Jhon Doe",
+  "mobileNumber": "9999999999",
+  "age": 29,
+  "gender": "Male",
+  "address": {
+    "doorNumber": 121,
+    "streetName": "Main Street",
+    "locality": "Gandhi Nagar",
+    "district": "New District",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "pincode": 600079
+  }
+}

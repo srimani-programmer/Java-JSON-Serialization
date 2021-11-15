@@ -1,0 +1,15 @@
+{
+  "customer_name": "Jhon Doe",
+  "customer_mobileNumber": "9999999999",
+  "customer_age": 29,
+  "customer_gender": "Male",
+  "customer_address": {
+    "doorNumber": 121,
+    "streetName": "Main Street",
+    "locality": "Gandhi Nagar",
+    "district": "New District",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "pincode": 600079
+  }
+}
