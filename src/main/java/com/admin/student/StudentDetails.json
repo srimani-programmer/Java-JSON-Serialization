@@ -1,0 +1,10 @@
+{
+  "firstName":"Jhon",
+  "lastName":"Doe",
+  "emailId":"jhondoe@test.com",
+  "fatherName":"peter doe",
+  "motherName":"Catherine",
+  "age":30,
+  "studentMobileNumber":"9999999999",
+  "fatherMobileNumber":"8888888888"
+}
